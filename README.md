@@ -26,6 +26,7 @@ Build with Docker:
 1. bash
 
 docker build -t golf-tournament-app .
+
 docker run -p 8080:8080 golf-tournament-app
 
 2.Access API:
